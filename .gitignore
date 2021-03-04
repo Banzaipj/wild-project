@@ -1,2 +1,1 @@
-secret_file.html $ git rm --cached secret_file.html rm secret_file.html $ git commit -m Ignore secret_file.html
-secret_file.html $ git rm --cached secret_file.html rm secret_file.html $ git commit -m Ignore secret_file.html
+secret_file.html
